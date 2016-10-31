@@ -1,4 +1,4 @@
-## Github系列之【向Github提交代码
+## Github系列之［向Github提交代码］
 
 ### 本文引用于http://stormzhang.com/github/2016/06/04/learn-github-from-zero4/
 
